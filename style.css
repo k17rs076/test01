@@ -1,0 +1,14 @@
+body{
+background:#D1EF8D;
+}
+h1{font-size:200%; color:red;
+box-shadow:10px 10px 5px:}
+h2{
+border:8px white;
+border-bottom-style:double;}
+ol{list-style-type:armenian;}
+.font1{font-family: "‚l‚r –¾’©",serif; }
+.font2 {text-shadow:4px 3px 2px #00efff;}
+.empty1 {background-color:#D1EF8D; margin-left: 200px;}
+.empty2 {background-color:#D1EF8D; margin-left: 150px;}
+.empty3 {background-color:#D1EF8DE; margin-left: 100px;}
